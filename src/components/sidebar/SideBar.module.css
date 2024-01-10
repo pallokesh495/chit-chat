@@ -1,0 +1,23 @@
+.wrap{
+    padding: 1rem;
+    background-color:rgb(229 229 229);
+    height: 100vh;
+    
+}
+.contacts{
+    display: flex;
+    justify-content:space-between;
+    border-radius: 1rem;
+    padding: 2px 1.2rem 0 0.2rem;
+    margin: 5px 0;
+    background-color: #c4c7c9;
+}
+
+.wrap #name{
+    color: blue;
+    margin: 0;
+    
+}
+.wrap .title{
+    margin-left: 20px;
+}
